@@ -1,0 +1,7 @@
+package imp;
+
+public class ww {
+	public void ss() {
+	System.out.println("Î¢Ğ¦ÅÉÊÇµÄ");
+	}
+}

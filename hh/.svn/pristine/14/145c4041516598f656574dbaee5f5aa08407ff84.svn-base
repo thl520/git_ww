@@ -1,0 +1,10 @@
+package hh;
+
+public class qqq {
+
+	static void sun() {
+	}
+	public static void main(String[] args) {
+		sun();
+	}
+}
